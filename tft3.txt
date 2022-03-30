@@ -1,0 +1,3 @@
+Bard: Gnar, Nautilius, Teemo
+Gnar: Bard, Nautilius, Teemo
+Nautilius: Teemo

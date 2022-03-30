@@ -1,0 +1,52 @@
+Zoe: Ahri, Annie, Syndra, Xerath, Twisted Fate, Viktor, Neeko, Poppy, Janna, Soraka
+Neeko: Ahri, Janna, Poppy, Syndra, Soraka, Jarvan IV, Rakan, Urgot, Xin Zhao
+Ahri: Janna, Poppy, Soraka, Syndra, Annie, Twisted Fate, Viktor, Xerath
+Janna: Poppy, Soraka, Syndra
+Poppy: Soraka, Syndra, Jayce, Leona, Mordekaiser, Nautilius, Wukong
+Soraka: Bard, Cassiopeia, Karma, Lulu
+Syndra: Annie, Twisted Fate, Viktor, Xerath
+Annie: Fizz, Rumble, Twisted Fate, Viktor, Xerath
+Fizz: Rumble, Ekko, Nocturne, Shaco, Zed
+Rumble: Gangplank, Ziggs
+Jarvan IV: Jhin, Karma, Mordekaiser, Shaco, Xerath, Rakan, Urgot, Xin Zhao
+Jhin: Karma, Mordekaiser, Shaco, Xerath, Ashe, Caitlyn, Teemo, Vayne
+Karma: Mordekaiser, Shaco, Xerath, Bard, Cassiopeia, Lulu
+Mordekaiser: Shaco, Xerath, Jayce, Leona, Nautilius, Wukong
+Shaco: Xerath, Ekko, Nocturne, Zed
+Xerath: Twisted Fate, Viktor
+Darius: Gangplank, Graves, Jayce, Irelia, Thresh
+Gangplank: Ziggs, Graves, Jayce
+Graves: Ezreal, Jinx, Kog'Maw, Lucian
+Jayce: Leona, Nautilius, Wukong
+Ekko: Fiora, Leona, Irelia, Lucian, Vayne, Vi, Nocturne, Zed
+Fiora: Irelia, Leona, Lucian, Vayne, Vi, Master Yi, Riven, Shen, Xayah, Yasuo
+Irelia: Leona, Lucian, Vayne, Vi, Thresh, Master Yi, Riven, Shen, Xayah, Yasuo
+Leona: Lucian, Vayne, Vi, Nautilius, Wukong
+Lucian: Jinx, Kog'Maw, Ezreal, Vayne, Vi
+Vayne: Ashe, Caitlyn, Jhin, Teemo, Vi
+Vi: Blitzcrank, Gnar, Illaoi, Malphite
+Bard: Gnar, Nautilius, Teemo, Cassiopeia, Lulu
+Gnar: Nautilius, Teemo, Illaoi, Malphite
+Nautilius: Teemo, Wukong
+Cassiopeia: Illaoi, Kog'Maw, Nocturne, Urgot, Viktor, Lulu
+Illaoi: Kog'Maw, Nocturne, Urgot, Viktor, Malphite
+Kog'Maw: Nocturne, Urgot, Viktor, Jinx
+Nocturne: Urgot, Viktor, Zed
+Urgot: Viktor, Xin Zhao
+Ashe: Lulu, Rakan, Xayah, Xin Zhao, Teemo
+Lulu: Rakan, Xayah, Xin Zhao
+Rakan: Xayah, Xin Zhao, Urgot
+Xayah: Xin Zhao, Yasuo
+Blitzcrank: Caitlyn, Ezreal, Riven, Shen, Thresh, Twisted Fate, Wukong, Gnar, Illaoi, Malphite
+Caitlyn: Ezreal, Riven, Shen, Thresh, Twisted Fate, Wukong, Ashe, Jhin, Teemo
+Ezreal: Riven, Shen, Thresh, Twisted Fate, Wukong, Graves, Jinx, Kog'Maw, Lucian
+Riven: Shen, Thresh, Twisted Fate, Wukong, Xayah, Yasuo
+Shen: Thresh, Twisted Fate, Wukong, Yasuo
+Thresh: Twisted Fate, Wukong
+Twisted Fate: Wukong
+Aurelion Sol: Jinx, Malphite, Master Yi, Yasuo, Zed, Ziggs
+Jinx: Malphite, Master Yi, Yasuo, Zed, Ziggs
+Malphite: Master Yi, Yasuo, Zed, Ziggs
+Master Yi: Yasuo, Zed, Ziggs, Riven, Shen, Xayah
+Yasuo: Zed, Ziggs
+Zed: Ziggs
